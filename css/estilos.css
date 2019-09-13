@@ -1,0 +1,35 @@
+li{
+	background-color: blue;
+}
+h1{
+	background-color: white;
+	color:black;
+	text-align:center; 
+	box-shadow: 3px 3px 5px black;
+	border-radius: 10px 0px 5px 20px;
+}
+a{
+	text-decoration: none;
+}
+p{	
+	font-size: 50px;
+	font-family: sans-serif;
+	width: 90%;
+	color: green;
+	border:5px solid black;
+	border-left: 5px dotted green;
+}
+div{
+	background-color: rgba(0,25,36,90%);
+	color: white;
+	text-align:center;
+}
+
+/*selector id*/
+#uno{
+	background-color: red;	
+}
+/*selector por medio de la clase*/
+.dos{
+	box-shadow: 5px 5px 8px black;
+}
